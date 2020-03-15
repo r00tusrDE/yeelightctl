@@ -7,7 +7,7 @@ Python script to control your Xiaomi Yeelight bulbs.
 * [python-yeelight](https://github.com/skorokithakis/python-yeelight)
 
 ## Prerequisites
-* Python 3 and Pip
+* Install Python 3 and Pip
 ```sh
 # Ubuntu / Debian
 sudo apt install python3 python3-pip
@@ -20,6 +20,11 @@ sudo pacman -S python python-pip
 
 # openSUSE
 sudo zypper install python3 python3-pip
+```
+
+* Install Dependencies
+```sh
+pip install -Ur requirements.txt
 ```
 
 ## Getting started
