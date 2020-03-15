@@ -1,4 +1,4 @@
-#yeelightctl
+# yeelightctl
 
 Python script to control your Xiaomi Yeelight bulbs.
 
