@@ -41,7 +41,7 @@ name,ip
 lr,192.168.178.10
 br,192.168.178.11
 ```
-See `Usage` to now how to use these names.
+See `Usage` to know how to use these names.
 
 ## Usage
 ### Basic usage
